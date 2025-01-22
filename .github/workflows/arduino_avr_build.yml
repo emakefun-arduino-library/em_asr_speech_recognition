@@ -1,0 +1,1 @@
+fqbn: ["arduino:avr:uno", "arduino:avr:nano", "arduino:avr:mega"]
